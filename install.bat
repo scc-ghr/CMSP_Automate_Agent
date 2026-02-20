@@ -1,1 +1,0 @@
-cd /d "%~dp0" & msiexec /i "Agent_Install.msi" TRANSFORMS="Agent_Install.mst"
